@@ -1,1 +1,23 @@
-baseurl: 
+markdown: redcarpet
+permalink: /:categories/:title.html
+url: 
+lsi: false
+pygments: true
+safe: true
+auto: false 
+
+paginate: 10
+paginate_path: "page:num"
+
+# presonal config
+domain: www.zdjray.com
+title: 张东杰的网络日志
+description: Java, Spring, Architecture, Frontend, Linux, Reading...
+author: 张东杰
+email: zdjray#vip.qq.com
+github: zdjray
+
+config:
+  js_dir:
+  img_dir:
+  css_dir:
