@@ -2,7 +2,7 @@
 ================
 
 ####博客地址
-http://www.panxw.com, 支持PC与智能机访问。  
+http://www.zdjray.com, 支持PC与终端HTML5访问。
 
 ####使用本项目作为博客模板，仅需如下几步：
 1,首先Fork或Download一份本项目代码。  
@@ -18,9 +18,8 @@ http://www.panxw.com, 支持PC与智能机访问。
 3,Google 的Adsense广告，官网：https://www.google.com/adsense/login/zh_CN  
 如需查看或管理网站统计、评论或广告，请自行注册帐号并修改_includes目录下相关文件。  
 
-####联系作者
-QQ：85902258  
-邮箱：email(winfirm#163.com)  
-Github：https://github.com/panxw  
+####联系作者  
+邮箱：email(zdjray@vip.qq.com)
+Github：https://github.com/zdjray
 
-**^_^*随喜Star一下本项目吧，谢谢~  
+**^_^*顺手Star一下本项目吧，谢谢~
