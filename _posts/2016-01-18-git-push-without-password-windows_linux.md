@@ -57,5 +57,5 @@ github允许两种方式来clone一个仓库:SSH和HTTPS,默认为HTTPS.
 
 ##开始使用
 此时在命令行使用git push就不用再输入用户名和密码了.  
-首次使用会得到如下提示:  
+正常使用时会得到如下提示:  
 >Warning: Permanently added the RSA host key for IP address 'xxx.xxx.xxx.xxx' to the list of known hosts.
